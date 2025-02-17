@@ -9,7 +9,7 @@
    You can contact me via email and Instagram
 <br>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](geeksloths@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:geeksloths@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/geeksloths)
 
 <br><br>
