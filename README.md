@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**geeksloths/geeksloths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div dir="ltr">
 
-Here are some ideas to get you started:
+# 👋 Hello 
+   Welcome to [GeekSloth](http://geeksloths.github.io) github. My name is AmirReza Esfandiyari. I'm a front-end and back-end developer. I believe my job is a form of art rather than just development. I have been developing projects since I was 15, and I'm excited for what will happen in my future 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+   ## 📫 Get in touch with me
+   You can contact me via email and Instagram
+<br>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](geeksloths@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/geeksloths)
+
+<br><br>
+
+   ***
+
+  
+  </div>
