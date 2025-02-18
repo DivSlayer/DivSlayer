@@ -1,7 +1,7 @@
 <div dir="ltr">
 
 # 👋 Hello 
-Welcome to [GeekSloth](http://geeksloths.github.io) GitHub. My name is AmirReza Esfandiyari. I'm a front-end and back-end developer. I believe my job is a form of art rather than just development. I have been developing projects since I was 15, and I'm excited for what will happen in my future.
+Welcome to [DivSlayer](http://divslayer.github.io) GitHub. My name is AmirReza Esfandiyari. I'm a front-end and back-end developer. I believe my job is a form of art rather than just development. I have been developing projects since I was 15, and I'm excited for what will happen in my future.
 
 ---
 
