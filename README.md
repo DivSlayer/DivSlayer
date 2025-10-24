@@ -20,9 +20,9 @@ I'm skilled in:
 
 ## 🏆 Top Projects
 Here are my top 3 projects:
-1. [Chat App](https://github.com/geeksloths/Chat-App) - A Flutter Chat app with django backend.
-2. [Finance App](https://github.com/geeksloths/Finance-App) - A simple flutter ui for a finance app.
-3. [Covid App](https://github.com/geeksloths/covid-19-app) - This simple app displays patient statistics and prevention methods for COVID-19.
+1. [Food App](https://github.com/geeksloths/Food-App) - A full-stack food delivery system with map-based coverage, multi-branch support, financial insights, and real-time delivery tracking across web and mobile platforms.
+2. [Chat App](https://github.com/geeksloths/Chat-App) - A Flutter Chat app with django backend.
+2. [Finance App](https://github.com/geeksloths/Finance-App) - A simple flutter ui for a finance app
 
 ---
 
