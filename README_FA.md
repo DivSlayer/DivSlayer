@@ -2,7 +2,7 @@
 
 # 👋 سلام!
 
-[English](README_FA.md)
+[English](README.md)
 
 
 به گیت‌هاب من خوش اومدی — [DivSlayer](https://divslayer.github.io)  
