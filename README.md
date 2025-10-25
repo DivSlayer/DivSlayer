@@ -1,35 +1,45 @@
-<div dir="ltr">
+# 👋 Hello, I'm AmirReza Esfandiyari
 
-# 👋 Hello 
-Welcome to [DivSlayer](http://divslayer.github.io) GitHub. My name is AmirReza Esfandiyari. I'm a front-end and back-end developer. I believe my job is a form of art rather than just development. I have been developing projects since I was 15, and I'm excited for what will happen in my future.
+Welcome to [DivSlayer](https://divslayer.github.io) — my personal GitHub space!  
+I'm a **Full-Stack Developer** passionate about crafting digital experiences that blend **functionality and creativity**.  
+For me, **development is art**, not just code.
 
 ---
 
 ## 🛠️ Skills & Technologies
-I'm skilled in:
-- **Flutter**
-- **Django**
-- **Python**
-- **HTML**
-- **CSS**
-- **ReactJS**
-- **Dart**
-- **Docker**
+
+I'm experienced with:
+
+- 🐍 **Python** / **Django**
+- 💙 **Flutter** / **Dart**
+- ⚛️ **ReactJS**
+- 🌐 **HTML** / **CSS**
+- 🐳 **Docker**
 
 ---
 
-## 🏆 Top Projects
-Here are my top 3 projects:
-1. [Food App](https://github.com/divslayer/Food-App) - A full-stack food delivery system with map-based coverage, multi-branch support, financial insights, and real-time delivery tracking across web and mobile platforms.
-2. [Chat App](https://github.com/divslayer/Chat-App) - A Flutter Chat app with django backend.
-2. [Finance App](https://github.com/divslayer/Finance-App) - A simple flutter ui for a finance app
+## 🚀 Featured Projects
+
+Here are some of my favorite works:
+
+1. **[Food App](https://github.com/divslayer/Food-App)** —  
+   A full-stack food delivery system with map-based coverage, multi-branch support, financial insights, and real-time delivery tracking across web and mobile platforms.
+
+2. **[Chat App](https://github.com/divslayer/Chat-App)** —  
+   A Flutter chat application powered by a Django backend, featuring real-time communication and modern UI.
+
+3. **[Finance App](https://github.com/divslayer/Finance-App)** —  
+   A clean and elegant Flutter UI for personal finance management.
 
 ---
 
-## 📫 Get in Touch with Me
-You can contact me via email and Instagram:
+## 📫 Get in Touch
+
+Let’s connect:
 
 [![Email](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:divslayer@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/divslayer)
 
-</div>
+---
+
+⭐️ *Thanks for visiting! Don’t forget to check out my repositories and leave a star if you like what you see.*  
