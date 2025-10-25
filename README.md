@@ -1,5 +1,8 @@
 # 👋 Hello, I'm AmirReza Esfandiyari
 
+[پارسی <img src="./svgs/ir_flag.svg" width="20"/>](README_FA.md)
+
+
 Welcome to [DivSlayer](https://divslayer.github.io) — my personal GitHub space!  
 I'm a **Full-Stack Developer** passionate about crafting digital experiences that blend **functionality and creativity**.  
 For me, **development is art**, not just code.
