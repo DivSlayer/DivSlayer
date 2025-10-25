@@ -2,7 +2,7 @@
 
 # 👋 سلام!
 
-[English](README.md)
+[English <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/refs/heads/main/svg/gb.svg" width="20"/>](README.md)
 
 
 به گیت‌هاب من خوش اومدی — [DivSlayer](https://divslayer.github.io)  
