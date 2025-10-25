@@ -1,6 +1,6 @@
 # 👋 Hello, I'm AmirReza Esfandiyari
 
-[🇮🇷 پارسی](./README_FA.md)
+[<img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/ir.png" width="20"/> پارسی](./README.fa.md)
 
 Welcome to [DivSlayer](https://divslayer.github.io) — my personal GitHub space!  
 I'm a **Full-Stack Developer** passionate about crafting digital experiences that blend **functionality and creativity**.  
