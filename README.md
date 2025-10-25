@@ -1,6 +1,6 @@
 # 👋 Hello, I'm AmirReza Esfandiyari
 
-[پارسی <img src="https://raw.githubusercontent.com/DivSlayer/Food-App/main/svgs/ir_flag.svg" width="20"/>](README_FA.md)
+[پارسی <img src="https://raw.githubusercontent.com/DivSlayer/Food-App/main/svgs/ir_flag.svg" width="20"/>](README-FA.md)
 
 
 Welcome to [DivSlayer](https://divslayer.github.io) — my personal GitHub space!  
